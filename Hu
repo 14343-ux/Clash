@@ -1,0 +1,6 @@
+index.html
+styles.css
+app.js
+manifest.json
+service-worker.js
+/assets/ (folder with images)
